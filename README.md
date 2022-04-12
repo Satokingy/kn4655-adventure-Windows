@@ -1,8 +1,3 @@
 # kn4655-adventure-Windows
-四六五五の冒険のWindows版
-推奨環境
-CPU Celeron 3865U同等以上
-メモリ 3GB以上
-グラフィック Intel HD Graphics 4000同等以上
-
-必要なディスク容量 およそ73MB
+容量不足のため更新終了
+最新バージョンは https://sites.google.com/view/kn4655/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0
